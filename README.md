@@ -33,7 +33,7 @@ This project demonstrates a multi-agent AI workflow using **LangChain-inspired d
 
 ## 📊 Architecture & Workflow
 
-'''text
+```
 
              +-------------------+
              |   User Input      |
@@ -52,6 +52,8 @@ This project demonstrates a multi-agent AI workflow using **LangChain-inspired d
 | Search Agent   | | Memory Agent      | | Notification Agent|
 | (get_local_...) | | (save & retrieve) | | (print plan to UI)|
 +----------------+ +-------------------+ +------------------+
+
+```
 
 
 
@@ -164,11 +166,11 @@ from agents.search_agent import get_local_events
 3. Always test with main.py first — it helps debug better than Jupyter if import fails.
 
 
-👩‍💻 Author
-Akanksha Sinha
-Data Scientist | AI Engineer | Creator of #100DaysOfAI
-👤 [Follow on GitHub](https://github.com/akankshasinhagithub)  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/akanksha247/)
+👩‍💻 **Author**  
+Akanksha Sinha  
+_Data Scientist | AI Engineer | Creator of #100DaysOfAI_  
+[🔗 GitHub](https://github.com/akankshasinhagithub) | [🔗 LinkedIn](https://www.linkedin.com/in/akanksha247/)
+
 
 
 🌟 Motivation
