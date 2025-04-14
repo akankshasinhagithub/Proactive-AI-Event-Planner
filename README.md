@@ -33,6 +33,8 @@ This project demonstrates a multi-agent AI workflow using **LangChain-inspired d
 
 ## 📊 Architecture & Workflow
 
+'''text
+
              +-------------------+
              |   User Input      |
              |  (preference)     |
@@ -165,7 +167,9 @@ from agents.search_agent import get_local_events
 👩‍💻 Author
 Akanksha Sinha
 Data Scientist | AI Engineer | Creator of #100DaysOfAI
-LinkedIn | GitHub
+👤 [Follow on GitHub](https://github.com/akankshasinhagithub)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/akanksha247/)
+
 
 🌟 Motivation
 This isn't just a planner. It's a demonstration of how multiple lightweight agents can work together like an orchestra, with shared memory and reasoning capabilities. Built for Day 13–14 of the #100DaysOfAI challenge to simulate proactive AI workflows.
